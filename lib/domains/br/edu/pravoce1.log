@@ -1,0 +1,1018 @@
+2024-02-19T21:16:08.874953294Z 
+2024-02-19T21:16:08.874955704Z 
+2024-02-19T21:16:08.874958874Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:08.927501700Z 
+2024-02-19T21:16:08.927554201Z 
+2024-02-19T21:16:08.927561991Z Data: 19/02/2024 18:16:08
+2024-02-19T21:16:08.927566061Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:08.927568941Z StackTrace:
+2024-02-19T21:16:08.927572121Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:08.927575112Z 
+2024-02-19T21:16:08.927578942Z Inner Exception: 
+2024-02-19T21:16:08.927584682Z Inner StackTrace:
+2024-02-19T21:16:08.927587062Z 
+2024-02-19T21:16:08.927589222Z 
+2024-02-19T21:16:08.927592132Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:08.942680467Z 
+2024-02-19T21:16:08.942720487Z 
+2024-02-19T21:16:08.942729548Z Data: 19/02/2024 18:16:08
+2024-02-19T21:16:08.942736758Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:08.942740598Z StackTrace:
+2024-02-19T21:16:08.945038206Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:08.945058917Z 
+2024-02-19T21:16:08.945071657Z Inner Exception: 
+2024-02-19T21:16:08.945074517Z Inner StackTrace:
+2024-02-19T21:16:08.945076917Z 
+2024-02-19T21:16:08.945095047Z 
+2024-02-19T21:16:08.945099217Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.040150502Z 
+2024-02-19T21:16:09.040196023Z 
+2024-02-19T21:16:09.040204353Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.040208343Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.040212183Z StackTrace:
+2024-02-19T21:16:09.040742502Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.040755622Z 
+2024-02-19T21:16:09.040759382Z Inner Exception: 
+2024-02-19T21:16:09.040762072Z Inner StackTrace:
+2024-02-19T21:16:09.040775692Z 
+2024-02-19T21:16:09.040799623Z 
+2024-02-19T21:16:09.040803793Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.131877420Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:09.178018409Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:09.229763412Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:09.245480577Z 
+2024-02-19T21:16:09.245522828Z 
+2024-02-19T21:16:09.245530108Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.245534418Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.245538158Z StackTrace:
+2024-02-19T21:16:09.247848037Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.247894788Z 
+2024-02-19T21:16:09.247899008Z Inner Exception: 
+2024-02-19T21:16:09.247902938Z Inner StackTrace:
+2024-02-19T21:16:09.247905828Z 
+2024-02-19T21:16:09.247908078Z 
+2024-02-19T21:16:09.247912008Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.342167809Z 
+2024-02-19T21:16:09.342203760Z 
+2024-02-19T21:16:09.342211390Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.342215510Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.342218480Z StackTrace:
+2024-02-19T21:16:09.342221790Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.342224210Z 
+2024-02-19T21:16:09.342227700Z Inner Exception: 
+2024-02-19T21:16:09.342230620Z Inner StackTrace:
+2024-02-19T21:16:09.342233340Z 
+2024-02-19T21:16:09.342236020Z 
+2024-02-19T21:16:09.342239150Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.433582742Z 
+2024-02-19T21:16:09.433604803Z 
+2024-02-19T21:16:09.433612403Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.433616583Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.433619833Z StackTrace:
+2024-02-19T21:16:09.443559181Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.443595831Z 
+2024-02-19T21:16:09.443599931Z Inner Exception: 
+2024-02-19T21:16:09.443602911Z Inner StackTrace:
+2024-02-19T21:16:09.443605411Z 
+2024-02-19T21:16:09.443607671Z 
+2024-02-19T21:16:09.443611461Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.446065193Z 
+2024-02-19T21:16:09.446082663Z 
+2024-02-19T21:16:09.446089533Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.446093303Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.446176785Z StackTrace:
+2024-02-19T21:16:09.446183375Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.446186425Z 
+2024-02-19T21:16:09.446190585Z Inner Exception: 
+2024-02-19T21:16:09.446193615Z Inner StackTrace:
+2024-02-19T21:16:09.446196165Z 
+2024-02-19T21:16:09.446198785Z 
+2024-02-19T21:16:09.446201925Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.451081097Z 
+2024-02-19T21:16:09.451113708Z 
+2024-02-19T21:16:09.451120568Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.451124378Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.451146069Z StackTrace:
+2024-02-19T21:16:09.451264851Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.451271451Z 
+2024-02-19T21:16:09.451274661Z Inner Exception: 
+2024-02-19T21:16:09.451277371Z Inner StackTrace:
+2024-02-19T21:16:09.451279641Z 
+2024-02-19T21:16:09.451282021Z 
+2024-02-19T21:16:09.451308001Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.529687284Z 
+2024-02-19T21:16:09.529711735Z 
+2024-02-19T21:16:09.529719495Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.529723225Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.529726505Z StackTrace:
+2024-02-19T21:16:09.530763542Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.530789033Z 
+2024-02-19T21:16:09.530793033Z Inner Exception: 
+2024-02-19T21:16:09.530795983Z Inner StackTrace:
+2024-02-19T21:16:09.530798423Z 
+2024-02-19T21:16:09.530800893Z 
+2024-02-19T21:16:09.530804973Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.530807663Z 
+2024-02-19T21:16:09.530809873Z 
+2024-02-19T21:16:09.530813043Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.530816683Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.530819713Z StackTrace:
+2024-02-19T21:16:09.530822393Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.530824923Z 
+2024-02-19T21:16:09.530827773Z Inner Exception: 
+2024-02-19T21:16:09.530830804Z Inner StackTrace:
+2024-02-19T21:16:09.530833414Z 
+2024-02-19T21:16:09.530835784Z 
+2024-02-19T21:16:09.530838684Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.550608797Z 
+2024-02-19T21:16:09.550641788Z 
+2024-02-19T21:16:09.550648048Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.550652958Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.550656018Z StackTrace:
+2024-02-19T21:16:09.550659058Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.550662128Z 
+2024-02-19T21:16:09.550665228Z Inner Exception: 
+2024-02-19T21:16:09.550667888Z Inner StackTrace:
+2024-02-19T21:16:09.550670268Z 
+2024-02-19T21:16:09.550672658Z 
+2024-02-19T21:16:09.550676099Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:09.627554826Z 
+2024-02-19T21:16:09.627574937Z 
+2024-02-19T21:16:09.627582767Z Data: 19/02/2024 18:16:09
+2024-02-19T21:16:09.627586717Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:09.627589717Z StackTrace:
+2024-02-19T21:16:09.627593577Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:09.627596507Z 
+2024-02-19T21:16:09.627599827Z Inner Exception: 
+2024-02-19T21:16:09.627602467Z Inner StackTrace:
+2024-02-19T21:16:09.627605127Z 
+2024-02-19T21:16:09.627607627Z 
+2024-02-19T21:16:09.627619937Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.457802719Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:10.534830659Z 
+2024-02-19T21:16:10.534860420Z 
+2024-02-19T21:16:10.534868050Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.534872220Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.534875380Z StackTrace:
+2024-02-19T21:16:10.534879050Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.534881790Z 
+2024-02-19T21:16:10.534885330Z Inner Exception: 
+2024-02-19T21:16:10.534888260Z Inner StackTrace:
+2024-02-19T21:16:10.534890830Z 
+2024-02-19T21:16:10.534893410Z 
+2024-02-19T21:16:10.534896850Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.549572758Z 
+2024-02-19T21:16:10.549592238Z 
+2024-02-19T21:16:10.549597558Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.549601218Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.549604338Z StackTrace:
+2024-02-19T21:16:10.730761116Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.730788197Z 
+2024-02-19T21:16:10.730791997Z Inner Exception: 
+2024-02-19T21:16:10.730795337Z Inner StackTrace:
+2024-02-19T21:16:10.730798127Z 
+2024-02-19T21:16:10.730800767Z 
+2024-02-19T21:16:10.730804717Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.731368356Z 
+2024-02-19T21:16:10.731379807Z 
+2024-02-19T21:16:10.731385997Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.731390027Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.731393577Z StackTrace:
+2024-02-19T21:16:10.731568950Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.731574180Z 
+2024-02-19T21:16:10.731577590Z Inner Exception: 
+2024-02-19T21:16:10.731580520Z Inner StackTrace:
+2024-02-19T21:16:10.731583040Z 
+2024-02-19T21:16:10.731585670Z 
+2024-02-19T21:16:10.731589020Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.732167860Z 
+2024-02-19T21:16:10.732205781Z 
+2024-02-19T21:16:10.732216321Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.732220191Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.732223121Z StackTrace:
+2024-02-19T21:16:10.732226251Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.732228841Z 
+2024-02-19T21:16:10.732232531Z Inner Exception: 
+2024-02-19T21:16:10.732235291Z Inner StackTrace:
+2024-02-19T21:16:10.732237751Z 
+2024-02-19T21:16:10.732240351Z 
+2024-02-19T21:16:10.732243801Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.740506141Z 
+2024-02-19T21:16:10.740549561Z 
+2024-02-19T21:16:10.740556431Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.740559972Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.740563292Z StackTrace:
+2024-02-19T21:16:10.740567412Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.740579812Z 
+2024-02-19T21:16:10.740583612Z Inner Exception: 
+2024-02-19T21:16:10.740587542Z Inner StackTrace:
+2024-02-19T21:16:10.740590172Z 
+2024-02-19T21:16:10.740593022Z 
+2024-02-19T21:16:10.740596352Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.746550672Z 
+2024-02-19T21:16:10.746679795Z 
+2024-02-19T21:16:10.746687975Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.746691825Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.746694865Z StackTrace:
+2024-02-19T21:16:10.746698755Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.746724335Z 
+2024-02-19T21:16:10.746731386Z Inner Exception: 
+2024-02-19T21:16:10.746734226Z Inner StackTrace:
+2024-02-19T21:16:10.746736736Z 
+2024-02-19T21:16:10.746739146Z 
+2024-02-19T21:16:10.746742736Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.828276422Z 
+2024-02-19T21:16:10.828306953Z 
+2024-02-19T21:16:10.828313043Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.828316613Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.828320053Z StackTrace:
+2024-02-19T21:16:10.828323683Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.828326273Z 
+2024-02-19T21:16:10.828329603Z Inner Exception: 
+2024-02-19T21:16:10.828332523Z Inner StackTrace:
+2024-02-19T21:16:10.828335073Z 
+2024-02-19T21:16:10.828337713Z 
+2024-02-19T21:16:10.828341013Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.839375439Z 
+2024-02-19T21:16:10.839403590Z 
+2024-02-19T21:16:10.839409690Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.839413770Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.839417260Z StackTrace:
+2024-02-19T21:16:10.839420720Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.839423630Z 
+2024-02-19T21:16:10.839426900Z Inner Exception: 
+2024-02-19T21:16:10.839430010Z Inner StackTrace:
+2024-02-19T21:16:10.839432580Z 
+2024-02-19T21:16:10.839435070Z 
+2024-02-19T21:16:10.839438621Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.863112940Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:10.927296313Z 
+2024-02-19T21:16:10.927388315Z 
+2024-02-19T21:16:10.927397465Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.927401415Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.927404775Z StackTrace:
+2024-02-19T21:16:10.928981852Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.929001012Z 
+2024-02-19T21:16:10.929004982Z Inner Exception: 
+2024-02-19T21:16:10.929007992Z Inner StackTrace:
+2024-02-19T21:16:10.929010562Z 
+2024-02-19T21:16:10.929013093Z 
+2024-02-19T21:16:10.929016863Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.930944025Z 
+2024-02-19T21:16:10.931001636Z 
+2024-02-19T21:16:10.931008716Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.931012216Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.931015166Z StackTrace:
+2024-02-19T21:16:10.931117918Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.931124398Z 
+2024-02-19T21:16:10.931127718Z Inner Exception: 
+2024-02-19T21:16:10.931130618Z Inner StackTrace:
+2024-02-19T21:16:10.931133168Z 
+2024-02-19T21:16:10.931136178Z 
+2024-02-19T21:16:10.931141118Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.932158186Z 
+2024-02-19T21:16:10.932201196Z 
+2024-02-19T21:16:10.932208386Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.932211976Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.932215257Z StackTrace:
+2024-02-19T21:16:10.932328978Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.932335719Z 
+2024-02-19T21:16:10.932339429Z Inner Exception: 
+2024-02-19T21:16:10.932341929Z Inner StackTrace:
+2024-02-19T21:16:10.932344329Z 
+2024-02-19T21:16:10.932346789Z 
+2024-02-19T21:16:10.932350539Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.933356696Z 
+2024-02-19T21:16:10.933405517Z 
+2024-02-19T21:16:10.933413197Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.933417317Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.933420157Z StackTrace:
+2024-02-19T21:16:10.933655901Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.933663511Z 
+2024-02-19T21:16:10.933667291Z Inner Exception: 
+2024-02-19T21:16:10.933670061Z Inner StackTrace:
+2024-02-19T21:16:10.933672801Z 
+2024-02-19T21:16:10.933675381Z 
+2024-02-19T21:16:10.933678921Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.934627547Z 
+2024-02-19T21:16:10.934669428Z 
+2024-02-19T21:16:10.934677058Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.934680378Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.934684168Z StackTrace:
+2024-02-19T21:16:10.934959293Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.934978263Z 
+2024-02-19T21:16:10.934981583Z Inner Exception: 
+2024-02-19T21:16:10.934984203Z Inner StackTrace:
+2024-02-19T21:16:10.934986663Z 
+2024-02-19T21:16:10.934989193Z 
+2024-02-19T21:16:10.935015294Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:10.953678499Z 
+2024-02-19T21:16:10.953740230Z 
+2024-02-19T21:16:10.953747350Z Data: 19/02/2024 18:16:10
+2024-02-19T21:16:10.953751980Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:10.953755190Z StackTrace:
+2024-02-19T21:16:10.955494469Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:10.955523700Z 
+2024-02-19T21:16:10.955528130Z Inner Exception: 
+2024-02-19T21:16:10.955553220Z Inner StackTrace:
+2024-02-19T21:16:10.955556380Z 
+2024-02-19T21:16:10.955558710Z 
+2024-02-19T21:16:10.955561620Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:11.152723198Z 
+2024-02-19T21:16:11.152774679Z 
+2024-02-19T21:16:11.152782399Z Data: 19/02/2024 18:16:11
+2024-02-19T21:16:11.152786279Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:11.152789569Z StackTrace:
+2024-02-19T21:16:11.152970803Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:11.152978643Z 
+2024-02-19T21:16:11.152982293Z Inner Exception: 
+2024-02-19T21:16:11.152985273Z Inner StackTrace:
+2024-02-19T21:16:11.152987683Z 
+2024-02-19T21:16:11.152990323Z 
+2024-02-19T21:16:11.152993563Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:11.153667824Z 
+2024-02-19T21:16:11.153677115Z 
+2024-02-19T21:16:11.153682385Z Data: 19/02/2024 18:16:11
+2024-02-19T21:16:11.153685985Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:11.153689155Z StackTrace:
+2024-02-19T21:16:11.153692635Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:11.153695265Z 
+2024-02-19T21:16:11.153698645Z Inner Exception: 
+2024-02-19T21:16:11.153701385Z Inner StackTrace:
+2024-02-19T21:16:11.153703905Z 
+2024-02-19T21:16:11.153706435Z 
+2024-02-19T21:16:11.153709525Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:11.357366183Z 
+2024-02-19T21:16:11.364043555Z 
+2024-02-19T21:16:11.364055155Z Data: 19/02/2024 18:16:11
+2024-02-19T21:16:11.364059445Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:11.364063215Z StackTrace:
+2024-02-19T21:16:11.364066985Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:11.364069515Z 
+2024-02-19T21:16:11.364072915Z Inner Exception: 
+2024-02-19T21:16:11.364075495Z Inner StackTrace:
+2024-02-19T21:16:11.364077765Z 
+2024-02-19T21:16:11.364080275Z 
+2024-02-19T21:16:11.364083566Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:11.436238014Z 
+2024-02-19T21:16:11.436260824Z 
+2024-02-19T21:16:11.436267514Z Data: 19/02/2024 18:16:11
+2024-02-19T21:16:11.436271234Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:11.436274444Z StackTrace:
+2024-02-19T21:16:11.436277845Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:11.436280355Z 
+2024-02-19T21:16:11.436283605Z Inner Exception: 
+2024-02-19T21:16:11.436286475Z Inner StackTrace:
+2024-02-19T21:16:11.436291595Z 
+2024-02-19T21:16:11.436306705Z 
+2024-02-19T21:16:11.436310175Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:12.933650328Z 
+2024-02-19T21:16:12.933682069Z 
+2024-02-19T21:16:12.933690679Z Data: 19/02/2024 18:16:12
+2024-02-19T21:16:12.933695049Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:12.933819101Z StackTrace:
+2024-02-19T21:16:12.933836512Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:12.933839182Z 
+2024-02-19T21:16:12.933842412Z Inner Exception: 
+2024-02-19T21:16:12.933845302Z Inner StackTrace:
+2024-02-19T21:16:12.933847682Z 
+2024-02-19T21:16:12.933849992Z 
+2024-02-19T21:16:12.933853572Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:12.945604100Z [41m[30mfail[39m[22m[49m: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware[1]
+2024-02-19T21:16:12.945633721Z       An unhandled exception has occurred while executing the request.
+2024-02-19T21:16:12.945637531Z       System.AggregateException: One or more errors occurred. (A task was canceled.)
+2024-02-19T21:16:12.945649641Z        ---> System.Net.Http.HttpRequestException: A task was canceled.
+2024-02-19T21:16:12.945653791Z          at MedCore_DataAccess.Util.HttpClientHelper.SendGetRequest[T](String URL, String contentType, String parameters, String token) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/HttpClientHelper.cs:line 40
+2024-02-19T21:16:12.945656811Z          at MedCore_DataAccess.Util.APIPermissoesManager.ObterPermissoesDoAluno(Int32 matricula, Int32 produtoId, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/APIPermissoesManager.cs:line 25
+2024-02-19T21:16:12.945660301Z          --- End of inner exception stack trace ---
+2024-02-19T21:16:12.945663311Z          at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2024-02-19T21:16:12.945697402Z          at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2024-02-19T21:16:12.945702802Z          at System.Threading.Tasks.Task.Wait()
+2024-02-19T21:16:12.945730082Z          at MedCore_DataAccess.Util.Utilidades.AlunoTrial(Int32 matricula, Int32 produto, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/Utilidades.cs:line 191
+2024-02-19T21:16:12.945735063Z          at Medgrupo.DataAccessEntity.Business.Conteudo.ObterTemaCronogramaService.Executar(ObterTemaCronogramaCommand command) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/Conteudo/ObterTemaCronogramaService.cs:line 22
+2024-02-19T21:16:12.945766563Z          at MedCore_DataAccess.Business.ApostilaBusiness.BuscarApostilaV2(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] materiaisFiltros) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 301
+2024-02-19T21:16:12.945858525Z          at MedCore_DataAccess.Business.ApostilaBusiness.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 104
+2024-02-19T21:16:12.945869625Z          at MedCore_API.Controllers.ApostilaController.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Controllers/ApostilaController.cs:line 69
+2024-02-19T21:16:12.945873285Z          at lambda_method38(Closure , Object )
+2024-02-19T21:16:12.945880255Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+2024-02-19T21:16:12.945883755Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+2024-02-19T21:16:12.945909305Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:12.945999407Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+2024-02-19T21:16:12.946006457Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+2024-02-19T21:16:12.946014637Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:12.946021187Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:12.946024267Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:12.946049768Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:12.946054498Z          at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+2024-02-19T21:16:12.946136379Z          at MedCore_API.Util.RequestCounter.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Util/RequestCounter.cs:line 74
+2024-02-19T21:16:12.946147060Z          at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+2024-02-19T21:16:12.946150400Z          at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:12.946156750Z          at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:12.946165120Z          at MedCore_DataAccess.TrackMiddleware.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Middlewares/TrackMiddleware.cs:line 30
+2024-02-19T21:16:12.946190320Z          at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-02-19T21:16:13.242770866Z 
+2024-02-19T21:16:13.242795197Z 
+2024-02-19T21:16:13.242801717Z Data: 19/02/2024 18:16:13
+2024-02-19T21:16:13.242808897Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:13.242812827Z StackTrace:
+2024-02-19T21:16:13.252256387Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:13.252296947Z 
+2024-02-19T21:16:13.252302487Z Inner Exception: 
+2024-02-19T21:16:13.252305697Z Inner StackTrace:
+2024-02-19T21:16:13.252308277Z 
+2024-02-19T21:16:13.252310777Z 
+2024-02-19T21:16:13.252314367Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:13.252543361Z [41m[30mfail[39m[22m[49m: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware[1]
+2024-02-19T21:16:13.252552262Z       An unhandled exception has occurred while executing the request.
+2024-02-19T21:16:13.252555412Z       System.AggregateException: One or more errors occurred. (A task was canceled.)
+2024-02-19T21:16:13.252558532Z        ---> System.Net.Http.HttpRequestException: A task was canceled.
+2024-02-19T21:16:13.252570382Z          at MedCore_DataAccess.Util.HttpClientHelper.SendGetRequest[T](String URL, String contentType, String parameters, String token) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/HttpClientHelper.cs:line 40
+2024-02-19T21:16:13.252573782Z          at MedCore_DataAccess.Util.APIPermissoesManager.ObterPermissoesDoAluno(Int32 matricula, Int32 produtoId, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/APIPermissoesManager.cs:line 25
+2024-02-19T21:16:13.252577182Z          --- End of inner exception stack trace ---
+2024-02-19T21:16:13.252580722Z          at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2024-02-19T21:16:13.252583672Z          at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2024-02-19T21:16:13.252898707Z          at System.Threading.Tasks.Task.Wait()
+2024-02-19T21:16:13.252906058Z          at MedCore_DataAccess.Util.Utilidades.AlunoTrial(Int32 matricula, Int32 produto, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/Utilidades.cs:line 191
+2024-02-19T21:16:13.252909978Z          at Medgrupo.DataAccessEntity.Business.Conteudo.ObterTemaCronogramaService.Executar(ObterTemaCronogramaCommand command) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/Conteudo/ObterTemaCronogramaService.cs:line 22
+2024-02-19T21:16:13.252913348Z          at MedCore_DataAccess.Business.ApostilaBusiness.BuscarApostilaV2(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] materiaisFiltros) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 301
+2024-02-19T21:16:13.252916898Z          at MedCore_DataAccess.Business.ApostilaBusiness.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 104
+2024-02-19T21:16:13.252919998Z          at MedCore_API.Controllers.ApostilaController.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Controllers/ApostilaController.cs:line 69
+2024-02-19T21:16:13.252922878Z          at lambda_method38(Closure , Object )
+2024-02-19T21:16:13.252926078Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+2024-02-19T21:16:13.252929638Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+2024-02-19T21:16:13.252932458Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:13.252936578Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+2024-02-19T21:16:13.252940108Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+2024-02-19T21:16:13.252943088Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:13.252946528Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:13.252964428Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:13.252967829Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:13.252970719Z          at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+2024-02-19T21:16:13.252989679Z          at MedCore_API.Util.RequestCounter.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Util/RequestCounter.cs:line 74
+2024-02-19T21:16:13.252993439Z          at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+2024-02-19T21:16:13.252996719Z          at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:13.252999759Z          at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:13.253003489Z          at MedCore_DataAccess.TrackMiddleware.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Middlewares/TrackMiddleware.cs:line 30
+2024-02-19T21:16:13.253006409Z          at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-02-19T21:16:13.263703410Z 
+2024-02-19T21:16:13.263780381Z 
+2024-02-19T21:16:13.263789131Z Data: 19/02/2024 18:16:13
+2024-02-19T21:16:13.263792611Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:13.263796021Z StackTrace:
+2024-02-19T21:16:13.263799561Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:13.263802201Z 
+2024-02-19T21:16:13.263805471Z Inner Exception: 
+2024-02-19T21:16:13.263808311Z Inner StackTrace:
+2024-02-19T21:16:13.263810711Z 
+2024-02-19T21:16:13.263813212Z 
+2024-02-19T21:16:13.263816442Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:14.764535093Z 
+2024-02-19T21:16:14.764555643Z 
+2024-02-19T21:16:14.764580383Z Data: 19/02/2024 18:16:14
+2024-02-19T21:16:14.764584374Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:14.764587504Z StackTrace:
+2024-02-19T21:16:14.764591124Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:14.764593654Z 
+2024-02-19T21:16:14.764596914Z Inner Exception: 
+2024-02-19T21:16:14.764599704Z Inner StackTrace:
+2024-02-19T21:16:14.764602074Z 
+2024-02-19T21:16:14.764604514Z 
+2024-02-19T21:16:14.764607804Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:14.854679674Z 
+2024-02-19T21:16:14.854739285Z 
+2024-02-19T21:16:14.854746175Z Data: 19/02/2024 18:16:12
+2024-02-19T21:16:14.854750275Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:14.854753556Z StackTrace:
+2024-02-19T21:16:14.854757086Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:14.854759786Z 
+2024-02-19T21:16:14.854763216Z Inner Exception: 
+2024-02-19T21:16:14.854776086Z Inner StackTrace:
+2024-02-19T21:16:14.854778736Z 
+2024-02-19T21:16:14.854781226Z 
+2024-02-19T21:16:14.854784436Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:15.456823478Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:15.471367193Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:15.650873543Z 
+2024-02-19T21:16:15.650903283Z 
+2024-02-19T21:16:15.650911344Z Data: 19/02/2024 18:16:15
+2024-02-19T21:16:15.650914924Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:15.650918114Z StackTrace:
+2024-02-19T21:16:15.650921744Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:15.650924664Z 
+2024-02-19T21:16:15.650927904Z Inner Exception: 
+2024-02-19T21:16:15.650930764Z Inner StackTrace:
+2024-02-19T21:16:15.650933604Z 
+2024-02-19T21:16:15.650936224Z 
+2024-02-19T21:16:15.650939574Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:17.147268137Z 
+2024-02-19T21:16:17.147314008Z 
+2024-02-19T21:16:17.147323128Z Data: 19/02/2024 18:16:17
+2024-02-19T21:16:17.147327758Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:17.147331739Z StackTrace:
+2024-02-19T21:16:17.147338109Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:17.147340709Z 
+2024-02-19T21:16:17.147344089Z Inner Exception: 
+2024-02-19T21:16:17.147347339Z Inner StackTrace:
+2024-02-19T21:16:17.147350149Z 
+2024-02-19T21:16:17.147352479Z 
+2024-02-19T21:16:17.147355849Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:17.148401167Z 
+2024-02-19T21:16:17.148443747Z 
+2024-02-19T21:16:17.148449657Z Data: 19/02/2024 18:16:17
+2024-02-19T21:16:17.148453317Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:17.148456158Z StackTrace:
+2024-02-19T21:16:17.148654501Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:17.148662391Z 
+2024-02-19T21:16:17.148666141Z Inner Exception: 
+2024-02-19T21:16:17.148668901Z Inner StackTrace:
+2024-02-19T21:16:17.148671171Z 
+2024-02-19T21:16:17.148673541Z 
+2024-02-19T21:16:17.148677021Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:18.338465031Z 
+2024-02-19T21:16:18.338529232Z 
+2024-02-19T21:16:18.338538193Z Data: 19/02/2024 18:16:18
+2024-02-19T21:16:18.338542513Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:18.338545493Z StackTrace:
+2024-02-19T21:16:18.631429038Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:18.631481829Z 
+2024-02-19T21:16:18.631486699Z Inner Exception: 
+2024-02-19T21:16:18.631489819Z Inner StackTrace:
+2024-02-19T21:16:18.631492219Z 
+2024-02-19T21:16:18.631494620Z 
+2024-02-19T21:16:18.631497750Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:18.631819265Z 
+2024-02-19T21:16:18.631826575Z 
+2024-02-19T21:16:18.631831765Z Data: 19/02/2024 18:16:18
+2024-02-19T21:16:18.631846345Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:18.631849146Z StackTrace:
+2024-02-19T21:16:18.631965347Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:18.631971398Z 
+2024-02-19T21:16:18.631974078Z Inner Exception: 
+2024-02-19T21:16:18.631976948Z Inner StackTrace:
+2024-02-19T21:16:18.632009028Z 
+2024-02-19T21:16:18.632029709Z 
+2024-02-19T21:16:18.632040039Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:18.867461514Z 
+2024-02-19T21:16:18.867519275Z 
+2024-02-19T21:16:18.867527655Z Data: 19/02/2024 18:16:18
+2024-02-19T21:16:18.867531525Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:18.867534515Z StackTrace:
+2024-02-19T21:16:18.867543105Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:18.867545595Z 
+2024-02-19T21:16:18.867548865Z Inner Exception: 
+2024-02-19T21:16:18.867551595Z Inner StackTrace:
+2024-02-19T21:16:18.867553925Z 
+2024-02-19T21:16:18.867556475Z 
+2024-02-19T21:16:18.867560135Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:19.237978861Z 
+2024-02-19T21:16:19.238001121Z 
+2024-02-19T21:16:19.238008441Z Data: 19/02/2024 18:16:19
+2024-02-19T21:16:19.238012191Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:19.238015361Z StackTrace:
+2024-02-19T21:16:19.238018851Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:19.238021451Z 
+2024-02-19T21:16:19.238024781Z Inner Exception: 
+2024-02-19T21:16:19.238042032Z Inner StackTrace:
+2024-02-19T21:16:19.238045282Z 
+2024-02-19T21:16:19.238047732Z 
+2024-02-19T21:16:19.238051192Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:19.238067822Z 
+2024-02-19T21:16:19.238071602Z 
+2024-02-19T21:16:19.238074332Z Data: 19/02/2024 18:16:19
+2024-02-19T21:16:19.238077212Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:19.238080472Z StackTrace:
+2024-02-19T21:16:19.238083472Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:19.238085972Z 
+2024-02-19T21:16:19.238089043Z Inner Exception: 
+2024-02-19T21:16:19.238091753Z Inner StackTrace:
+2024-02-19T21:16:19.238094703Z 
+2024-02-19T21:16:19.238097143Z 
+2024-02-19T21:16:19.238099893Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:20.053036954Z 
+2024-02-19T21:16:20.053059485Z 
+2024-02-19T21:16:20.053066835Z Data: 19/02/2024 18:16:20
+2024-02-19T21:16:20.053070355Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:20.053073265Z StackTrace:
+2024-02-19T21:16:20.138749152Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:20.138781653Z 
+2024-02-19T21:16:20.138786263Z Inner Exception: 
+2024-02-19T21:16:20.138789263Z Inner StackTrace:
+2024-02-19T21:16:20.138791693Z 
+2024-02-19T21:16:20.138806733Z 
+2024-02-19T21:16:20.138810473Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:20.138845624Z 
+2024-02-19T21:16:20.138850054Z 
+2024-02-19T21:16:20.138853854Z Data: 19/02/2024 18:16:20
+2024-02-19T21:16:20.138857544Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:20.138860434Z StackTrace:
+2024-02-19T21:16:20.138868124Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:20.138871164Z 
+2024-02-19T21:16:20.138874324Z Inner Exception: 
+2024-02-19T21:16:20.138877204Z Inner StackTrace:
+2024-02-19T21:16:20.138879634Z 
+2024-02-19T21:16:20.138881894Z 
+2024-02-19T21:16:20.138884514Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:20.139395683Z 
+2024-02-19T21:16:20.139402043Z 
+2024-02-19T21:16:20.139406583Z Data: 19/02/2024 18:16:20
+2024-02-19T21:16:20.139410423Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:20.139413313Z StackTrace:
+2024-02-19T21:16:20.139427703Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:20.139431303Z 
+2024-02-19T21:16:20.139434693Z Inner Exception: 
+2024-02-19T21:16:20.139437474Z Inner StackTrace:
+2024-02-19T21:16:20.139439884Z 
+2024-02-19T21:16:20.139442424Z 
+2024-02-19T21:16:20.139445584Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:20.140605193Z 
+2024-02-19T21:16:20.140618773Z 
+2024-02-19T21:16:20.140624103Z Data: 19/02/2024 18:16:20
+2024-02-19T21:16:20.140627634Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:20.140630734Z StackTrace:
+2024-02-19T21:16:20.140639954Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:20.140642754Z 
+2024-02-19T21:16:20.140646014Z Inner Exception: 
+2024-02-19T21:16:20.140648814Z Inner StackTrace:
+2024-02-19T21:16:20.140651274Z 
+2024-02-19T21:16:20.140653724Z 
+2024-02-19T21:16:20.140656884Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:20.354066648Z 
+2024-02-19T21:16:20.354090489Z 
+2024-02-19T21:16:20.354097249Z Data: 19/02/2024 18:16:20
+2024-02-19T21:16:20.354100979Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:20.354104049Z StackTrace:
+2024-02-19T21:16:20.354107679Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:20.354110219Z 
+2024-02-19T21:16:20.354113679Z Inner Exception: 
+2024-02-19T21:16:20.354116619Z Inner StackTrace:
+2024-02-19T21:16:20.354119209Z 
+2024-02-19T21:16:20.354121629Z 
+2024-02-19T21:16:20.354124989Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:20.443354026Z 
+2024-02-19T21:16:20.443476928Z 
+2024-02-19T21:16:20.443489458Z Data: 19/02/2024 18:16:20
+2024-02-19T21:16:20.443494299Z Exception: Object reference not set to an instance of an object.
+2024-02-19T21:16:20.443497109Z StackTrace:
+2024-02-19T21:16:20.443509609Z    at MedCore_DataAccess.Util.RedisCacheManager.GetItemString(String key) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/RedisCacheManager.cs:line 180
+2024-02-19T21:16:20.443523139Z 
+2024-02-19T21:16:20.443526659Z Inner Exception: 
+2024-02-19T21:16:20.443529329Z Inner StackTrace:
+2024-02-19T21:16:20.443531689Z 
+2024-02-19T21:16:20.443534049Z 
+2024-02-19T21:16:20.443537189Z ---------------------------------------------------------------------------------
+2024-02-19T21:16:21.352999167Z [41m[30mfail[39m[22m[49m: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware[1]
+2024-02-19T21:16:21.353032437Z       An unhandled exception has occurred while executing the request.
+2024-02-19T21:16:21.353036207Z       System.AggregateException: One or more errors occurred. (The operation was canceled.)
+2024-02-19T21:16:21.353039358Z        ---> System.Net.Http.HttpRequestException: The operation was canceled.
+2024-02-19T21:16:21.353043548Z          at MedCore_DataAccess.Util.HttpClientHelper.SendGetRequest[T](String URL, String contentType, String parameters, String token) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/HttpClientHelper.cs:line 40
+2024-02-19T21:16:21.353046938Z          at MedCore_DataAccess.Util.APIPermissoesManager.ObterPermissoesDoAluno(Int32 matricula, Int32 produtoId, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/APIPermissoesManager.cs:line 25
+2024-02-19T21:16:21.353050568Z          --- End of inner exception stack trace ---
+2024-02-19T21:16:21.353054168Z          at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2024-02-19T21:16:21.353057108Z          at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2024-02-19T21:16:21.353060388Z          at System.Threading.Tasks.Task.Wait()
+2024-02-19T21:16:21.353063608Z          at MedCore_DataAccess.Util.Utilidades.AlunoTrial(Int32 matricula, Int32 produto, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/Utilidades.cs:line 191
+2024-02-19T21:16:21.353066908Z          at Medgrupo.DataAccessEntity.Business.Conteudo.ObterTemaCronogramaService.Executar(ObterTemaCronogramaCommand command) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/Conteudo/ObterTemaCronogramaService.cs:line 22
+2024-02-19T21:16:21.353070568Z          at MedCore_DataAccess.Business.ApostilaBusiness.BuscarApostilaV2(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] materiaisFiltros) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 301
+2024-02-19T21:16:21.353073808Z          at MedCore_DataAccess.Business.ApostilaBusiness.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 104
+2024-02-19T21:16:21.353076628Z          at MedCore_API.Controllers.ApostilaController.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Controllers/ApostilaController.cs:line 69
+2024-02-19T21:16:21.353079788Z          at lambda_method38(Closure , Object )
+2024-02-19T21:16:21.353082788Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+2024-02-19T21:16:21.353086208Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+2024-02-19T21:16:21.353089208Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.353104049Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+2024-02-19T21:16:21.353107849Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+2024-02-19T21:16:21.353110839Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.353113569Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.353116419Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:21.353119229Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:21.353127529Z          at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+2024-02-19T21:16:21.353131549Z          at MedCore_API.Util.RequestCounter.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Util/RequestCounter.cs:line 74
+2024-02-19T21:16:21.353134389Z          at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+2024-02-19T21:16:21.353137169Z          at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:21.353139899Z          at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:21.353145129Z          at MedCore_DataAccess.TrackMiddleware.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Middlewares/TrackMiddleware.cs:line 30
+2024-02-19T21:16:21.353148189Z          at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-02-19T21:16:21.444277748Z [41m[30mfail[39m[22m[49m: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware[1]
+2024-02-19T21:16:21.444309009Z       An unhandled exception has occurred while executing the request.
+2024-02-19T21:16:21.444312619Z       System.AggregateException: One or more errors occurred. (The operation was canceled.)
+2024-02-19T21:16:21.444315839Z        ---> System.Net.Http.HttpRequestException: The operation was canceled.
+2024-02-19T21:16:21.444319389Z          at MedCore_DataAccess.Util.HttpClientHelper.SendGetRequest[T](String URL, String contentType, String parameters, String token) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/HttpClientHelper.cs:line 40
+2024-02-19T21:16:21.444322459Z          at MedCore_DataAccess.Util.APIPermissoesManager.ObterPermissoesDoAluno(Int32 matricula, Int32 produtoId, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/APIPermissoesManager.cs:line 25
+2024-02-19T21:16:21.444325909Z          --- End of inner exception stack trace ---
+2024-02-19T21:16:21.444329459Z          at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2024-02-19T21:16:21.444332239Z          at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2024-02-19T21:16:21.444342809Z          at System.Threading.Tasks.Task.Wait()
+2024-02-19T21:16:21.444346539Z          at MedCore_DataAccess.Util.Utilidades.AlunoTrial(Int32 matricula, Int32 produto, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/Utilidades.cs:line 191
+2024-02-19T21:16:21.444350039Z          at Medgrupo.DataAccessEntity.Business.Conteudo.ObterTemaCronogramaService.Executar(ObterTemaCronogramaCommand command) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/Conteudo/ObterTemaCronogramaService.cs:line 22
+2024-02-19T21:16:21.444353559Z          at MedCore_DataAccess.Business.ApostilaBusiness.BuscarApostilaV2(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] materiaisFiltros) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 301
+2024-02-19T21:16:21.444519292Z          at MedCore_DataAccess.Business.ApostilaBusiness.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 104
+2024-02-19T21:16:21.444526032Z          at MedCore_API.Controllers.ApostilaController.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Controllers/ApostilaController.cs:line 69
+2024-02-19T21:16:21.444528972Z          at lambda_method38(Closure , Object )
+2024-02-19T21:16:21.444532092Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+2024-02-19T21:16:21.444535502Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+2024-02-19T21:16:21.444538612Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.444541662Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+2024-02-19T21:16:21.444544962Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+2024-02-19T21:16:21.444547663Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.444550543Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.444553453Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:21.444556123Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:21.444564693Z          at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+2024-02-19T21:16:21.444568153Z          at MedCore_API.Util.RequestCounter.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Util/RequestCounter.cs:line 74
+2024-02-19T21:16:21.444571493Z          at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+2024-02-19T21:16:21.444578793Z          at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:21.444581593Z          at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:21.444587353Z          at MedCore_DataAccess.TrackMiddleware.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Middlewares/TrackMiddleware.cs:line 30
+2024-02-19T21:16:21.444590463Z          at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-02-19T21:16:21.641794353Z [41m[30mfail[39m[22m[49m: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware[1]
+2024-02-19T21:16:21.641826684Z       An unhandled exception has occurred while executing the request.
+2024-02-19T21:16:21.641830864Z       System.AggregateException: One or more errors occurred. (The operation was canceled.)
+2024-02-19T21:16:21.641834494Z        ---> System.Net.Http.HttpRequestException: The operation was canceled.
+2024-02-19T21:16:21.641838174Z          at MedCore_DataAccess.Util.HttpClientHelper.SendGetRequest[T](String URL, String contentType, String parameters, String token) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/HttpClientHelper.cs:line 40
+2024-02-19T21:16:21.641841584Z          at MedCore_DataAccess.Util.APIPermissoesManager.ObterPermissoesDoAluno(Int32 matricula, Int32 produtoId, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/APIPermissoesManager.cs:line 25
+2024-02-19T21:16:21.641845174Z          --- End of inner exception stack trace ---
+2024-02-19T21:16:21.641851454Z          at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2024-02-19T21:16:21.641854684Z          at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2024-02-19T21:16:21.641858654Z          at System.Threading.Tasks.Task.Wait()
+2024-02-19T21:16:21.641862074Z          at MedCore_DataAccess.Util.Utilidades.AlunoTrial(Int32 matricula, Int32 produto, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/Utilidades.cs:line 191
+2024-02-19T21:16:21.641865424Z          at Medgrupo.DataAccessEntity.Business.Conteudo.ObterTemaCronogramaService.Executar(ObterTemaCronogramaCommand command) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/Conteudo/ObterTemaCronogramaService.cs:line 22
+2024-02-19T21:16:21.641872844Z          at MedCore_DataAccess.Business.ApostilaBusiness.BuscarApostilaV2(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] materiaisFiltros) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 301
+2024-02-19T21:16:21.641876385Z          at MedCore_DataAccess.Business.ApostilaBusiness.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 104
+2024-02-19T21:16:21.641879425Z          at MedCore_API.Controllers.ApostilaController.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Controllers/ApostilaController.cs:line 69
+2024-02-19T21:16:21.641882285Z          at lambda_method38(Closure , Object )
+2024-02-19T21:16:21.641885425Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+2024-02-19T21:16:21.641897555Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+2024-02-19T21:16:21.641900325Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.641903545Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+2024-02-19T21:16:21.641906745Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+2024-02-19T21:16:21.641909505Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.641912285Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.641915045Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:21.641917985Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:21.641925885Z          at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+2024-02-19T21:16:21.641929335Z          at MedCore_API.Util.RequestCounter.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Util/RequestCounter.cs:line 74
+2024-02-19T21:16:21.641932205Z          at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+2024-02-19T21:16:21.641935116Z          at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:21.641938316Z          at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:21.641942796Z          at MedCore_DataAccess.TrackMiddleware.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Middlewares/TrackMiddleware.cs:line 30
+2024-02-19T21:16:21.641945936Z          at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-02-19T21:16:21.664683380Z [41m[30mfail[39m[22m[49m: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware[1]
+2024-02-19T21:16:21.664714120Z       An unhandled exception has occurred while executing the request.
+2024-02-19T21:16:21.664717850Z       System.AggregateException: One or more errors occurred. (The operation was canceled.)
+2024-02-19T21:16:21.664720910Z        ---> System.Net.Http.HttpRequestException: The operation was canceled.
+2024-02-19T21:16:21.664724410Z          at MedCore_DataAccess.Util.HttpClientHelper.SendGetRequest[T](String URL, String contentType, String parameters, String token) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/HttpClientHelper.cs:line 40
+2024-02-19T21:16:21.664727180Z          at MedCore_DataAccess.Util.APIPermissoesManager.ObterPermissoesDoAluno(Int32 matricula, Int32 produtoId, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/APIPermissoesManager.cs:line 25
+2024-02-19T21:16:21.664731420Z          --- End of inner exception stack trace ---
+2024-02-19T21:16:21.664746421Z          at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2024-02-19T21:16:21.664750211Z          at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2024-02-19T21:16:21.664753691Z          at System.Threading.Tasks.Task.Wait()
+2024-02-19T21:16:21.664757331Z          at MedCore_DataAccess.Util.Utilidades.AlunoTrial(Int32 matricula, Int32 produto, Int32 ano) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Util/Utilidades.cs:line 191
+2024-02-19T21:16:21.664760971Z          at Medgrupo.DataAccessEntity.Business.Conteudo.ObterTemaCronogramaService.Executar(ObterTemaCronogramaCommand command) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/Conteudo/ObterTemaCronogramaService.cs:line 22
+2024-02-19T21:16:21.664765091Z          at MedCore_DataAccess.Business.ApostilaBusiness.BuscarApostilaV2(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] materiaisFiltros) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 301
+2024-02-19T21:16:21.664768491Z          at MedCore_DataAccess.Business.ApostilaBusiness.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 104
+2024-02-19T21:16:21.664771411Z          at MedCore_API.Controllers.ApostilaController.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Controllers/ApostilaController.cs:line 69
+2024-02-19T21:16:21.664774691Z          at lambda_method38(Closure , Object )
+2024-02-19T21:16:21.664777651Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+2024-02-19T21:16:21.664781051Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+2024-02-19T21:16:21.664783821Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.664787091Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+2024-02-19T21:16:21.664790521Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+2024-02-19T21:16:21.664793051Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.664796322Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:16:21.664798992Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:21.664802332Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:16:21.664809732Z          at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+2024-02-19T21:16:21.664813582Z          at MedCore_API.Util.RequestCounter.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Util/RequestCounter.cs:line 74
+2024-02-19T21:16:21.664820242Z          at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+2024-02-19T21:16:21.664823222Z          at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:21.664826572Z          at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:16:21.664829602Z          at MedCore_DataAccess.TrackMiddleware.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Middlewares/TrackMiddleware.cs:line 30
+2024-02-19T21:16:21.664833262Z          at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-02-19T21:16:27.346789752Z [40m[1m[33mwarn[39m[22m[49m: Microsoft.AspNetCore.Server.Kestrel[22]
+2024-02-19T21:16:27.346871104Z       As of "02/19/2024 21:16:16 +00:00", the heartbeat has been running for "00:00:01.9175766" which is longer than "00:00:01". This could be caused by thread pool starvation.
+2024-02-19T21:16:27.741215973Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:29.730159778Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:34.741467106Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:35.543856761Z [40m[1m[33mwarn[39m[22m[49m: Microsoft.AspNetCore.Server.Kestrel[22]
+2024-02-19T21:16:35.543893192Z       As of "02/19/2024 21:16:33 +00:00", the heartbeat has been running for "00:00:01.4246424" which is longer than "00:00:01". This could be caused by thread pool starvation.
+2024-02-19T21:16:37.453435613Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:39.351025241Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:41.937655163Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:46.229709507Z medsoftapi.medgrupo.com.br
+2024-02-19T21:16:55.738200129Z medsoftapi.medgrupo.com.br
+2024-02-19T21:17:02.234593064Z medsoftapi.medgrupo.com.br
+2024-02-19T21:17:04.131606991Z [40m[1m[33mwarn[39m[22m[49m: Microsoft.AspNetCore.Server.Kestrel[22]
+2024-02-19T21:17:04.131643992Z       As of "02/19/2024 21:17:03 +00:00", the heartbeat has been running for "00:00:01.0956226" which is longer than "00:00:01". This could be caused by thread pool starvation.
+2024-02-19T21:17:07.642020051Z medsoftapi.medgrupo.com.br
+2024-02-19T21:17:20.642490400Z medsoftapi.medgrupo.com.br
+2024-02-19T21:17:25.240623789Z medsoftapi.medgrupo.com.br
+2024-02-19T21:17:26.833878305Z medsoftapi.medgrupo.com.br
+2024-02-19T21:17:33.040993101Z medsoftapi.medgrupo.com.br
+2024-02-19T21:17:36.630938880Z [41m[30mfail[39m[22m[49m: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware[1]
+2024-02-19T21:17:36.630971090Z       An unhandled exception has occurred while executing the request.
+2024-02-19T21:17:36.630974580Z       System.NullReferenceException: Object reference not set to an instance of an object.
+2024-02-19T21:17:36.630978631Z          at MedCore_DataAccess.Business.ApostilaBusiness.IsDentroDoCronograma(Int32 idTema, List`1 cronogramaMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 449
+2024-02-19T21:17:36.630982451Z          at MedCore_DataAccess.Business.ApostilaBusiness.<>c__DisplayClass26_0.<BuscarApostilaV2>b__8(MaterialDadosApostilasDTO mat) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 389
+2024-02-19T21:17:36.630985521Z          at System.Collections.Generic.List`1.ForEach(Action`1 action)
+2024-02-19T21:17:36.630996621Z          at MedCore_DataAccess.Business.ApostilaBusiness.BuscarApostilaV2(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] materiaisFiltros) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 400
+2024-02-19T21:17:36.631000671Z          at MedCore_DataAccess.Business.ApostilaBusiness.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, String versao, Int32 aplicacao, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_DataAccess/Business/ApostilaBusiness.cs:line 107
+2024-02-19T21:17:36.631004141Z          at MedCore_API.Controllers.ApostilaController.GetApostila(Int32 matricula, Int32 idProduto, Int32 idTema, Int32 ano, Int32[] idMateriais) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Controllers/ApostilaController.cs:line 69
+2024-02-19T21:17:36.631007261Z          at lambda_method38(Closure , Object )
+2024-02-19T21:17:36.631010261Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+2024-02-19T21:17:36.631013541Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+2024-02-19T21:17:36.631016341Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:17:36.631019681Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+2024-02-19T21:17:36.631022951Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+2024-02-19T21:17:36.631025521Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:17:36.631028071Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-02-19T21:17:36.631030771Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:17:36.631033821Z          at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+2024-02-19T21:17:36.631036582Z          at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+2024-02-19T21:17:36.631039642Z          at MedCore_API.Util.RequestCounter.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Util/RequestCounter.cs:line 74
+2024-02-19T21:17:36.631042512Z          at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+2024-02-19T21:17:36.631045652Z          at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:17:36.631048452Z          at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+2024-02-19T21:17:36.631058732Z          at MedCore_DataAccess.TrackMiddleware.InvokeAsync(HttpContext context) in /var/lib/jenkins/workspace/MedCoreApi/Build/MedCore_API/Middlewares/TrackMiddleware.cs:line 30
+2024-02-19T21:17:36.631062272Z          at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-02-19T21:17:44.438520763Z medsoftapi.medgrupo.com.br
+2024-02-19T21:17:46.935895123Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:03.366023732Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:05.556191453Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:15.784396719Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:20.970522293Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:29.838357248Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:34.460600633Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:35.910521714Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:39.632426175Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:44.170793340Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:50.840424691Z medsoftapi.medgrupo.com.br
+2024-02-19T21:18:52.092144399Z medsoftapi.medgrupo.com.br
+2024-02-19T21:19:01.486603545Z medsoftapi.medgrupo.com.br
+2024-02-19T21:19:09.327401033Z medsoftapi.medgrupo.com.br
+2024-02-19T21:19:23.313036757Z medsoftapi.medgrupo.com.br
+2024-02-19T21:19:39.018062613Z medsoftapi.medgrupo.com.br
+2024-02-19T21:19:51.542011818Z medsoftapi.medgrupo.com.br
+2024-02-19T21:19:52.899110067Z medsoftapi.medgrupo.com.br
+2024-02-19T21:20:02.930930535Z medsoftapi.medgrupo.com.br
+2024-02-19T21:20:07.900615673Z medsoftapi.medgrupo.com.br
+2024-02-19T21:20:17.876587148Z medsoftapi.medgrupo.com.br
+2024-02-19T21:20:21.031942016Z medsoftapi.medgrupo.com.br
+2024-02-19T21:20:38.388050412Z medsoftapi.medgrupo.com.br
+2024-02-19T21:20:39.617862419Z medsoftapi.medgrupo.com.br
+2024-02-19T21:20:58.289390447Z medsoftapi.medgrupo.com.br
+2024-02-19T21:21:01.800689248Z medsoftapi.medgrupo.com.br
+2024-02-19T21:21:56.054994668Z medsoftapi.medgrupo.com.br
+2024-02-19T21:21:58.727381264Z medsoftapi.medgrupo.com.br
+2024-02-19T21:22:08.270676541Z medsoftapi.medgrupo.com.br
+2024-02-19T21:22:32.151680789Z medsoftapi.medgrupo.com.br
+2024-02-19T21:22:43.753849787Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:05.990072449Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:09.858692964Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:20.875828301Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:30.853469677Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:33.708995311Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:36.428359122Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:39.570093927Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:48.070179765Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:51.497913172Z medsoftapi.medgrupo.com.br
+2024-02-19T21:23:52.653700921Z medsoftapi.medgrupo.com.br
+2024-02-19T21:24:02.744152385Z medsoftapi.medgrupo.com.br
+2024-02-19T21:24:15.281628138Z medsoftapi.medgrupo.com.br
+2024-02-19T21:24:22.986479136Z medsoftapi.medgrupo.com.br
+2024-02-19T21:24:31.840194403Z medsoftapi.medgrupo.com.br
+2024-02-19T21:24:35.895646736Z medsoftapi.medgrupo.com.br
+2024-02-19T21:24:54.711290116Z medsoftapi.medgrupo.com.br
+2024-02-19T21:24:54.767180660Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:01.225453418Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:01.518239134Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:07.524163933Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:23.217231964Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:26.530512554Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:42.294877346Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:43.838594409Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:43.925219628Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:50.381927900Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:53.599132532Z medsoftapi.medgrupo.com.br
+2024-02-19T21:25:57.701110432Z medsoftapi.medgrupo.com.br
+2024-02-19T21:26:03.943933162Z medsoftapi.medgrupo.com.br
+2024-02-19T21:26:11.131475757Z medsoftapi.medgrupo.com.br
+2024-02-19T21:26:13.239168132Z medsoftapi.medgrupo.com.br
+2024-02-19T21:26:21.214862453Z medsoftapi.medgrupo.com.br
+2024-02-19T21:26:44.089191063Z medsoftapi.medgrupo.com.br
+2024-02-19T21:26:45.658307980Z medsoftapi.medgrupo.com.br
+2024-02-19T21:26:50.737411668Z medsoftapi.medgrupo.com.br
+2024-02-19T21:26:54.581871644Z medsoftapi.medgrupo.com.br
+2024-02-19T21:27:00.230963019Z medsoftapi.medgrupo.com.br
+2024-02-19T21:27:06.846415509Z medsoftapi.medgrupo.com.br
+2024-02-19T21:27:17.832223529Z medsoftapi.medgrupo.com.br
+2024-02-19T21:27:31.058767821Z medsoftapi.medgrupo.com.br
+2024-02-19T21:27:33.043207693Z medsoftapi.medgrupo.com.br
+2024-02-19T21:28:08.234210336Z medsoftapi.medgrupo.com.br
+2024-02-19T21:28:13.427606760Z medsoftapi.medgrupo.com.br
+2024-02-19T21:28:22.855010519Z medsoftapi.medgrupo.com.br
+2024-02-19T21:28:37.965505542Z medsoftapi.medgrupo.com.br
+2024-02-19T21:28:39.706828693Z medsoftapi.medgrupo.com.br
+2024-02-19T21:28:40.852777690Z medsoftapi.medgrupo.com.br
+2024-02-19T21:28:49.566215579Z medsoftapi.medgrupo.com.br
+2024-02-19T21:28:50.146913171Z medsoftapi.medgrupo.com.br
+2024-02-19T21:28:51.652764264Z medsoftapi.medgrupo.com.br
+2024-02-19T21:29:21.338594717Z medsoftapi.medgrupo.com.br
+2024-02-19T21:29:22.031174727Z medsoftapi.medgrupo.com.br
+2024-02-19T21:29:23.045108653Z medsoftapi.medgrupo.com.br
+2024-02-19T21:29:34.123779790Z medsoftapi.medgrupo.com.br
+2024-02-19T21:29:36.952041804Z medsoftapi.medgrupo.com.br
+2024-02-19T21:29:41.137306162Z medsoftapi.medgrupo.com.br
+2024-02-19T21:29:46.903609841Z medsoftapi.medgrupo.com.br
+2024-02-19T21:29:47.811456785Z medsoftapi.medgrupo.com.br
+2024-02-19T21:29:57.948577465Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:07.179702979Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:16.295870524Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:22.937525852Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:25.588016677Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:27.894891713Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:28.127813773Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:34.234080209Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:49.844275623Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:50.639703797Z medsoftapi.medgrupo.com.br
+2024-02-19T21:30:57.277976297Z medsoftapi.medgrupo.com.br
+2024-02-19T21:31:05.876333110Z medsoftapi.medgrupo.com.br
+2024-02-19T21:31:07.234259197Z medsoftapi.medgrupo.com.br
+2024-02-19T21:31:16.690376118Z medsoftapi.medgrupo.com.br
+2024-02-19T21:31:19.544351201Z medsoftapi.medgrupo.com.br
+2024-02-19T21:31:52.546412092Z medsoftapi.medgrupo.com.br
+2024-02-19T21:31:54.971545119Z medsoftapi.medgrupo.com.br
+2024-02-19T21:31:58.218678314Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:07.375916503Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:13.229318439Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:18.564015400Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:18.671672669Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:24.374749515Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:27.425315281Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:28.913559842Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:31.902229374Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:34.062953905Z medsoftapi.medgrupo.com.br
+2024-02-19T21:32:53.048990476Z medsoftapi.medgrupo.com.br
+2024-02-19T21:33:01.963907064Z medsoftapi.medgrupo.com.br
+2024-02-19T21:33:12.613414802Z medsoftapi.medgrupo.com.br
+2024-02-19T21:33:16.285456597Z medsoftapi.medgrupo.com.br
+2024-02-19T21:33:29.337364656Z medsoftapi.medgrupo.com.br
+2024-02-19T21:33:31.002198622Z medsoftapi.medgrupo.com.br
+2024-02-19T21:33:37.995753602Z medsoftapi.medgrupo.com.br
+2024-02-19T21:33:38.793456163Z medsoftapi.medgrupo.com.br
+2024-02-19T21:33:48.392211581Z medsoftapi.medgrupo.com.br
+2024-02-19T21:34:07.814154905Z medsoftapi.medgrupo.com.br
+2024-02-19T21:34:12.933032735Z medsoftapi.medgrupo.com.br
+2024-02-19T21:34:14.463937819Z medsoftapi.medgrupo.com.br
+2024-02-19T21:34:28.756287410Z medsoftapi.medgrupo.com.br
+2024-02-19T21:34:29.628228671Z medsoftapi.medgrupo.com.br
+2024-02-19T21:34:35.188425234Z medsoftapi.medgrupo.com.br
+2024-02-19T21:34:41.061367473Z medsoftapi.medgrupo.com.br
+2024-02-19T21:34:47.382992535Z medsoftapi.medgrupo.com.br
+2024-02-19T21:35:11.961349431Z medsoftapi.medgrupo.com.br
+2024-02-19T21:35:18.256981395Z medsoftapi.medgrupo.com.br
+2024-02-19T21:35:23.072241007Z medsoftapi.medgrupo.com.br
+2024-02-19T21:35:29.385894945Z medsoftapi.medgrupo.com.br
+2024-02-19T21:35:41.972679608Z medsoftapi.medgrupo.com.br
+2024-02-19T21:35:47.466782765Z medsoftapi.medgrupo.com.br
+2024-02-19T21:36:00.645707595Z medsoftapi.medgrupo.com.br
+2024-02-19T21:36:08.392469567Z medsoftapi.medgrupo.com.br
+2024-02-19T21:36:20.217327764Z medsoftapi.medgrupo.com.br
+2024-02-19T21:36:21.701977145Z medsoftapi.medgrupo.com.br
+2024-02-19T21:36:27.947085561Z medsoftapi.medgrupo.com.br
+2024-02-19T21:36:40.903167614Z medsoftapi.medgrupo.com.br
+2024-02-19T21:36:50.742401869Z medsoftapi.medgrupo.com.br
+2024-02-19T21:37:01.419576177Z medsoftapi.medgrupo.com.br
+2024-02-19T21:37:05.069342585Z medsoftapi.medgrupo.com.br
+2024-02-19T21:37:07.708071523Z medsoftapi.medgrupo.com.br
+2024-02-19T21:37:11.228554069Z medsoftapi.medgrupo.com.br
+2024-02-19T21:37:34.431720545Z medsoftapi.medgrupo.com.br
+2024-02-19T21:38:08.820175595Z medsoftapi.medgrupo.com.br
+2024-02-19T21:38:12.842350307Z medsoftapi.medgrupo.com.br
+2024-02-19T21:38:19.193681351Z medsoftapi.medgrupo.com.br
+2024-02-19T21:38:20.922528506Z medsoftapi.medgrupo.com.br
+2024-02-19T21:38:22.777433188Z medsoftapi.medgrupo.com.br
+2024-02-19T21:38:24.998303141Z medsoftapi.medgrupo.com.br
+2024-02-19T21:38:35.463937730Z medsoftapi.medgrupo.com.br
+2024-02-19T21:38:51.146514286Z medsoftapi.medgrupo.com.br
+2024-02-19T21:38:57.458991113Z medsoftapi.medgrupo.com.br
+2024-02-19T21:39:09.835990468Z medsoftapi.medgrupo.com.br
+2024-02-19T21:39:48.937632561Z medsoftapi.medgrupo.com.br
+2024-02-19T21:39:51.101061796Z medsoftapi.medgrupo.com.br
+2024-02-19T21:40:06.036287102Z medsoftapi.medgrupo.com.br
+2024-02-19T21:40:36.286416530Z medsoftapi.medgrupo.com.br
+2024-02-19T21:40:48.512430366Z medsoftapi.medgrupo.com.br
+2024-02-19T21:40:50.454057060Z medsoftapi.medgrupo.com.br
+2024-02-19T21:41:02.982750030Z medsoftapi.medgrupo.com.br
+2024-02-19T21:41:10.848626298Z medsoftapi.medgrupo.com.br
+2024-02-19T21:41:21.850155051Z medsoftapi.medgrupo.com.br
+2024-02-19T21:41:45.568651164Z medsoftapi.medgrupo.com.br
+2024-02-19T21:42:05.294764216Z medsoftapi.medgrupo.com.br
+2024-02-19T21:42:10.342321782Z medsoftapi.medgrupo.com.br
+2024-02-19T21:42:20.754194000Z medsoftapi.medgrupo.com.br
+2024-02-19T21:42:42.050630161Z medsoftapi.medgrupo.com.br
+2024-02-19T21:42:57.991140843Z medsoftapi.medgrupo.com.br
+2024-02-19T21:43:02.648234645Z medsoftapi.medgrupo.com.br
+2024-02-19T21:43:07.978891464Z medsoftapi.medgrupo.com.br
+2024-02-19T21:43:28.056911594Z medsoftapi.medgrupo.com.br
+2024-02-19T21:43:34.660559303Z medsoftapi.medgrupo.com.br
+2024-02-19T21:43:35.762283558Z medsoftapi.medgrupo.com.br
